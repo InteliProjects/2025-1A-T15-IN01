@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="LINK PARA LOGO DO PARCEIRO"  width="200">
+    <img src="https://cursosalexandrerossi.com.br/wp-content/uploads/2021/08/cropped-logosemfundo.png"  width="200">
 </div>
 
 
@@ -18,10 +18,10 @@ Criar um jogo que estimule gatos a caçarem em situações desafiadoras.
   - Link do repositório: https://github.com/InteliProjects/2025-1A-T15-IN01-G02
 
 - Grupo 3 -  
-  - Link do repositório: LINK REPO PROJECTS G3
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T15-IN01-G03
 
 - Grupo 4 - 
-  - Link do repositório: LINK REPO PROJECTS G4
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T15-IN01-G04
 
 - Grupo 5 - 
-  - Link do repositório: LINK REPO PROJECTS G5
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T15-IN01-G05
